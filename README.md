@@ -36,19 +36,27 @@ https://disk.yandex.ru/edit/d/7XG3QUkyRcKMLdZjs_nzJCPegnqahzm72s0qoIz-cKg6V015eW
 <ol>
     <li>
         <strong>Лабораторная работа №1 "Генерация аннотаций с помощью ИИ"</strong><br>
-        Ссылка на гугл-документ с условиями:<br>
-        <a href="https://docs.google.com/document/d/1ZVT1yAdrYMqdxXSFm9nq99WPlErisHAfxwLF16k_PvI/edit?tab=t.udwwt240oo71">
-            Ссылка на гугл-док 1 лаба
+        Ссылка на материалы:
+        <a href="https://disk.yandex.ru/d/8O7Gr1KHHeiAXg">
+            Яндекс-диск 1 лаба
         </a><br><br>
-      Дедлайн: 14.11.25 23:59 по МСК
+      Дедлайн: 14.11.25 23:59 по МСК<br><br>
     </li>
-        <li>
+    <li>
         <strong>Лабораторная работа №2 "Перевод аннотаций на английский язык с помощью ИИ"</strong><br>
-        Ссылка на документ с условиями:<br>
-        <a href="https://docs.yandex.ru/docs/view?url=ya-disk-public%3A%2F%2FdPgRekPwZ65f2AtVm8pjEBspjMsJM3JB%2FPX3emSSq2kKYTOr7REhakCJXL49OxjYq%2FJ6bpmRyOJonT3VoXnDag%3D%3D%3A%2FМатериалы%2FЛаб_№2_Перевод_на_английский_язык%2FЗадание%20к%20лабораторной.pdf&name=Задание%20к%20лабораторной.pdf">
-            Ссылка на яндекс-диск 2 лаба
+        Ссылка на материалы:
+        <a href="https://disk.yandex.ru/d/uUA0r8910Kn_EQ">
+            Яндекс-диск 2 лаба
         </a><br><br>
-      Дедлайн: 21.11.25 23:59 по МСК
+      Дедлайн: 21.11.25 23:59 по МСК<br><br>
+    </li>
+    <li>
+        <strong>Лабораторная работа №3 "Перевод аннотаций на английский язык с помощью ИИ"</strong><br>
+        Ссылка на материалы:
+        <a href="https://disk.yandex.ru/d/kfybE5qkTR8k1w">
+            Яндекс-диск 3 лаба
+        </a><br><br>
+      Дедлайн: 29.11.25 23:59 по МСК (сдвинут на субботу, т.к. условия были выданы позже)<br><br>
     </li>
 </ol>
 
